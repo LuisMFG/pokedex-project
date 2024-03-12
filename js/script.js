@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
       input.value = '';
       procurarPokemon = data.id;
     } else {
-      pokemonName.innerHTML = "ERROR";
+      pokemonName.innerHTML = "Error :(";
       pokemonNumber.innerHTML = '?';
       pokemonImage.style.display = 'none';
     }

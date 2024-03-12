@@ -26,10 +26,11 @@ main {
 
 .pokemon_image {
   position: absolute;
-  left: 50%;
-  bottom: 48%;
-  transform: translate(-200%, 20%);
+  bottom: 45%;
   height: 18%;
+  left: 198px;
+  transform: translateX(0);
+  object-fit: contain;
 }
 
 .pokemon_data {
