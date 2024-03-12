@@ -8,7 +8,7 @@
 
 body {
   text-align: center;
-  background: linear-gradient(to bottom, #6ab7f5, #ffffff);
+  background: linear-gradient(to bottom, #000000, #ffffff);
   min-height: 100vh;
 }
 
@@ -28,7 +28,7 @@ main {
   position: absolute;
   left: 50%;
   bottom: 48%;
-  transform: translate(-300%, 80%);
+  transform: translate(-200%, 20%);
   height: 18%;
 }
 
